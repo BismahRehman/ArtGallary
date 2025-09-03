@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArtGallary</string>
+    <string name="title_activity_add">Add</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_profile">profile</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_signup">SignupActivity</string>
+</resources>

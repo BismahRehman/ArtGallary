@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573758500105",
+    "project_id": "art-gallary-2f5d8",
+    "storage_bucket": "art-gallary-2f5d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573758500105:android:446817e69ff594402237d8",
+        "android_client_info": {
+          "package_name": "com.example.artgallary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfA1yDZ41NlfqM7dx3iJ3gOoPWNXIkjPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
